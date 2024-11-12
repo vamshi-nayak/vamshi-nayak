@@ -5,7 +5,7 @@
 - 📫 How to reach me : kethavathvamshinayak02@gmail.com
 - 😄 Pronouns: He/Him
 
-# Fun fact: Software is like s*x, it's better when it's free 😉.
+### Fun fact: Software is like s*x, it's better when it's free 😉.
 
 <!---
 vamshi-nayak/vamshi-nayak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
